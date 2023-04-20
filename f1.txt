@@ -1,1 +1,1 @@
-voi func();
+int func();
