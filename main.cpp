@@ -1,2 +1,2 @@
 //first line
-int main
+int main() {}
